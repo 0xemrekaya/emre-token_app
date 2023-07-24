@@ -6,7 +6,7 @@ This project contains a ERC20 token called Emre Token created using Hardhat and 
 
 The EMRE Token React App is a frontend application that interacts with the Emre Token smart contract deployed on the Ethereum blockchain. It provides a user-friendly interface for users to connect their MetaMask wallet, view their token balance, transfer tokens to other addresses, mint new tokens (only available to the contract owner), burn tokens, and transfer ownership of the contract (only available to the contract owner).
 
-## Some photos and GIFs
+### Some photos and GIFs
 ![Screenshot_3](https://github.com/emrekaya035/emre-token_app/assets/72754835/73e26fc7-1efc-47c1-85c2-3e58c49c68ab)
 <img src="https://github.com/emrekaya035/emre-token_app/assets/72754835/78103d94-35dd-4b12-8f0c-b36d1ccb8936" alt="transfer" width="500" />
 <img src="https://github.com/emrekaya035/emre-token_app/assets/72754835/60dd4a89-509c-4cbd-8b56-6b5f276346c8" alt="are-not-owner" width="500" />
@@ -14,19 +14,18 @@ The EMRE Token React App is a frontend application that interacts with the Emre 
 <img src="https://github.com/emrekaya035/emre-token_app/assets/72754835/ce9c5a28-5ec8-4086-b12e-e9ee88fa7e11" alt="transferownership" width="500" />
 
 
-
-## Emre Token - Smart Contract
+### Emre Token - Smart Contract
 
 The Emre Token is an ERC-20 compliant token implemented on the Ethereum blockchain. It provides standard functions to manage and interact with the token, such as transferring, minting, burning, and managing allowances.
 
-## Contract Details
+### Contract Details
 
 - Token Name: Emre Token
 - Token Symbol: EMRE
 - Decimals: 18
 - Total Supply: 100,000 EMRE tokens
 
-## Smart Contract Architecture
+### Smart Contract Architecture
 
 This smart contract is written in Solidity, the programming language for Ethereum smart contracts. It consists of several components:
 
